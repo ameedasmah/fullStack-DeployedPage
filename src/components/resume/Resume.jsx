@@ -29,7 +29,7 @@ export default function Resume() {
                 marginTop: "35px"
 
             }}>
-                <a href="https://drive.google.com/file/d/1aCs8PFuwuK8o64oCohhVIdQKceH5cYvn/view?usp=sharing" target="_blank" rel="noreferrer" >
+                <a href="https://drive.google.com/file/d/1VhhcB_84hI8cfXNsnHa5Rv9F_9xcae_T/view?usp=sharing" target="_blank" rel="noreferrer" >
                     <AssignmentIndIcon style={{ height: "60px", width: "120px" }} color="primary" />
                 </a>
                 <a href="https://github.com/ameedasmah" target="_blank" rel="noreferrer" >
